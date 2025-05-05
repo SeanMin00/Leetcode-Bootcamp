@@ -66,15 +66,6 @@ Each week focused on core data structures and algorithms, with problems drawn fr
 
 Feel free to browse each week's code and explanations in the repository!
 
-Answer was reffered from
-https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0151.Reverse%20Words%20in%20a%20String/README_EN.md
+- Answer was reffered from
+- https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0151.Reverse%20Words%20in%20a%20String/README_EN.md
 
-
-Week 7
-
-
-
-Week 8
-
-
-Week 9
