@@ -14,7 +14,9 @@ Week 2
 
 
 Week 3
-
+73. Palindrome Linked List
+143. Reorder List
+234. Set Matrix Zeroes 
 
 Week 4
 
